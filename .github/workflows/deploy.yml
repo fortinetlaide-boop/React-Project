@@ -37,8 +37,8 @@ jobs:
       - name: Copy build files to EC2
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: ${{ secrets.EC2_HOST }}
-          username: ${{ secrets.EC2_USER }}
-          key: ${{ secrets.EC2_SSH_KEY }}
+          host: ${{ secrets.REACT_HOST }}
+          username: ${{ secrets.REACT_USER }}
+          key: ${{ secrets.REACT_SSH_KEY }}
           source: "build/*"
           target: "/var/www/html"
