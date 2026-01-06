@@ -11,6 +11,7 @@ function App() {
         <p>
           I am a dedicated and goal-oriented System Administrator with strong
           experience in IT infrastructure, cybersecurity, and networking.
+          i have extensive experience in system administration, network security, and DevOps practices.
         </p>
       </section>
 
