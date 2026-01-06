@@ -12,6 +12,9 @@ function App() {
           I am a dedicated and goal-oriented System Administrator with strong
           experience in IT infrastructure, cybersecurity, and networking.
           i have extensive experience in system administration, network security, and DevOps practices.
+          leading IT projects and implementing efficient solutions to enhance system performance and security.
+          implementing automation tools to streamline operations and improve productivity.
+          
         </p>
       </section>
 
