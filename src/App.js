@@ -15,7 +15,7 @@ function App() {
       </section>
 
       <footer>
-        <p>© 2025 Olaide Oluwaseun Adewale</p>
+        <p>© 2026 Olaide Oluwaseun Adewale</p>
       </footer>
     </div>
   );
