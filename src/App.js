@@ -14,7 +14,9 @@ function App() {
           i have extensive experience in system administration, network security, and DevOps practices.
           leading IT projects and implementing efficient solutions to enhance system performance and security.
           implementing automation tools to streamline operations and improve productivity.
-          
+          solving complex technical issues and providing top-notch support to end-users.
+          implemented various DevOps practices to optimize deployment processes and enhance collaboration between development and operations teams.
+
         </p>
       </section>
 
