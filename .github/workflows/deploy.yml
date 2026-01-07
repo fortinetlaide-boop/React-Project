@@ -42,3 +42,4 @@ jobs:
           key: ${{ secrets.REACT_SSH_KEY }}
           source: "build/*"
           target: "/var/www/html"
+          strip_components: 1
