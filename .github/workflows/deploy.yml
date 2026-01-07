@@ -41,5 +41,5 @@ jobs:
           username: ${{ secrets.REACT_USER }}
           key: ${{ secrets.REACT_SSH_KEY }}
           source: "build/*"
-          target: "/var/www/html"
+          target: "/home/ubuntu/deploy/"
           strip_components: 1
